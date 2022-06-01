@@ -6,12 +6,6 @@ import { Intro } from './components/Intro';
 
 // import { Urlitem } from './components/Urlitem';
 
-import Urlstate from './context/Urlstate';
-import { Outside } from './components/Outside';
-import { Login } from './components/Login';
-import { Signup } from './components/Signup';
-import { Inside } from './components/Inside';
-
 
 function App() {
  // document.body.style.backgroundColor="cadetblue";
