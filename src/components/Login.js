@@ -1,4 +1,4 @@
-//I(Arya) have implemented the styling for frontend1 and backend
+//I(Arya) have implemented the styling for frontend1 and back-end
 import React, {  useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 // import Urlcontext from '../context/urlcontext'
